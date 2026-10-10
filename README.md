@@ -1,14 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Chimzi Francis Nkiri
 =============================================================================================================================================
 
-Data Engineer
+Cloud and Devops Engineer
 -------------
 
-I'm a data professional with a background in Data Analytics, Business Intelligence, Data Engineering, Database Management, and Cloud Computing. My journey began with data analytics, where I developed a strong foundation in transforming raw data into actionable insights, identifying business trends, and supporting data-driven decision-making. Over time, my interests and technical expertise expanded into data engineering, database technologies, and cloud-based solutions, enabling me to work across the data lifecycle, from data collection and transformation to storage, orchestration, analysis, and deployment.
-
-With experience in data analysis and a growing focus on modern data engineering and cloud technologies, I enjoy solving complex problems, building efficient data workflows, optimising databases, and developing scalable solutions that help organisations make better use of their data.
-
-My approach combines analytical thinking, technical problem-solving, and an understanding of business needs to deliver solutions that are reliable, efficient, and designed to create measurable value.
+I'm a Cloud and DevOps practitioner with hands-on experience in AWS, Terraform, Docker, CI/CD and Linux. I enjoy building cloud infrastructure, automating deployment workflows and solving real-world technical problems.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [befrancisnkiri@yahoo.com](mailto:befrancisnkiri@yahoo.com)
