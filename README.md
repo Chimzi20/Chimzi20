@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud and Devops Engineer
 -------------
 
-My goal is to grow as a Data and Cloud Engineer, leveraging my data analytics background to build scalable, automated, and efficient solutions. I’m passionate about data-driven innovation, cloud technologies, and collaborating on projects that transform data into actionable insights and deliver meaningful business value.
+My interest in cloud engineering centres on combining data engineering, database technologies, and cloud services to create solutions that are scalable, secure, cost-conscious, and maintainable.
+
+From automating data ingestion and transformation to designing cloud-based storage and analytical workflows, my goal is to help turn disconnected data sources into reliable systems that support reporting, analytics, and informed decision-making.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [befrancisnkiri@yahoo.com](mailto:befrancisnkiri@yahoo.com)
